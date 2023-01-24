@@ -1,0 +1,31 @@
+h1{
+    color: #a2d2ff;
+    text-align: center;
+}
+p{
+    color: black;
+    background-color: #cdb4db;
+    padding: 15px;
+    border: 10px solid #ffc8dd;
+    /* margin: 50px; */
+
+    /* margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px; */
+
+    /* margin: 40px 15px 20px 10px; */
+    /* superior derecha inferior izquierda */
+
+    /* margin: 40px 10px 20px; */
+    /* superior derecha e ixquierda inferior */
+
+    /* margin: 40px 10px; */
+    /* superior e inferior derecha e izquierda */
+
+    margin: auto 50px;
+    /* para centrar el parrafo en horizontal respecto a la ventana */
+
+    text-align: center;
+    /* centrar el texto del parrafo */
+}
